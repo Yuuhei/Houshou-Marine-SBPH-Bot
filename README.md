@@ -4,7 +4,8 @@
 A bot for SBPH coded by Aspidiske/Yuuhei and thepanglossian
 
 You must use any Linux distro here, Windows isn't a linux distro.
-I used Debian in my case, so change debian specific commands here like `apt` to your distro
+
+I used Debian for this when it's still alive on Buccaneer Hub, so change debian specific commands here like `apt` to your distro
 
 If ur gonna plan to use another [OS](https://templeos.org/), you'll gonna have a bad time porting commands.
 
