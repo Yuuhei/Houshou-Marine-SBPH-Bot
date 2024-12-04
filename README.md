@@ -35,9 +35,9 @@ Run ```rip config --open``` , it will show you the file location of streamrip's 
 Set ```[database]
 enabled = true``` to **false**.
 
-Change rclone remote to your rclone remote name on cogs/*.py from `rclone_drives = ["gd", "gd", "gd"]` to your remote name.
-
 Read [this](https://rclone.org/commands/rclone_config/) to setup rclone.
+
+Change rclone remote to your rclone remote name on cogs/*.py from `rclone_drives = ["gd", "gd", "gd"]` to your remote name.
 
 Open the config.json file and edit it.
 * config.json download location should have a ```/``` at the end.
