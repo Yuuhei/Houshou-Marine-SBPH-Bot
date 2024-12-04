@@ -48,7 +48,7 @@ Open the config.json file and edit it.
 
 ## About KHInsider Downloader
 
-If khi_dl_arm binary isnt present in resources folder, download it on [this](https://github.com/Sorrow446/KHInsider-Downloader) repository
+If khi_dl_arm or khi_dl_linux_x64 binary isnt present in resources folder, download it on [this](https://github.com/Sorrow446/KHInsider-Downloader) repository
 
 ## All set?
 If all set, run:
