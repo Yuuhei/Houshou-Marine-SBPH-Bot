@@ -1,4 +1,4 @@
-![alt text](https://cdn.discordapp.com/attachments/899688146466385961/1034460067346530436/marine-banner.gif)
+![alt text](https://github.com/Yuuhei/Houshou-Marine-SBPH-Bot/blob/main/marine-banner.gif?raw=true)
 
 # Houshou Marine SBPH Bot
 A bot for SBPH coded by Aspidiske/Yuuhei and thepanglossian
