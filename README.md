@@ -20,8 +20,6 @@ Run these to install additional important stuff:
 
 ```pip3 install streamrip --upgrade```
 
-```pip install -U discord.py```
-
 Install [RClone](https://rclone.org/)
 
 Install ```7zip``` or ``p7zip``
