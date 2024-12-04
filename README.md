@@ -58,3 +58,7 @@ If all set, run:
 * When you run the h!dl <link> command for the first time , check your terminal and follow the steps to login to tidal/qobuz.
 
 Your token is saved so you don't have to do it everytime.
+
+# Others
+
+Check out [Kaidoku](https://github.com/Yuuhei/Kaidoku), the bot often partnered with this bot!
