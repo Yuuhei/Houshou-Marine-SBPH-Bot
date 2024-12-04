@@ -1,0 +1,25 @@
+
+Detected Bandcamp album.
+
+Adventure Archives - 58. Harper's Ferry | Adventure Archives Original Soundtrack
+1. https://adventurearchives.bandcamp.com/track/new-ideas
+2. https://adventurearchives.bandcamp.com/track/frontier
+3. https://adventurearchives.bandcamp.com/track/new-age-springtime
+4. https://adventurearchives.bandcamp.com/track/good-trip-vibes
+5. https://adventurearchives.bandcamp.com/track/windy-jazz
+6. https://adventurearchives.bandcamp.com/track/searching-for-water
+7. https://adventurearchives.bandcamp.com/track/tarpaulin
+8. https://adventurearchives.bandcamp.com/track/restful-grove
+9. https://adventurearchives.bandcamp.com/track/peaceful-drizzle
+10. https://adventurearchives.bandcamp.com/track/rainy-shenanigans
+11. https://adventurearchives.bandcamp.com/track/the-nicest-shelter
+12. https://adventurearchives.bandcamp.com/track/overlook
+13. https://adventurearchives.bandcamp.com/track/the-potomac
+
+Writing album to /home/xceon/network-share/houshou-py/download/Temp/Adventure Archives - 58. Harper's Ferry | Adventure Archives Original Soundtrack/
+
+Downloading: Adventure Archives - 58. Harper's Ferry | Adventure Archives Original Soundtrack - 1 New Ideas.mp3
+503 Service Unavailable. Attempting 1 of 2 retries.
+Waiting for 30 seconds ...
+503 Service Unavailable. Attempting 2 of 2 retries.
+Waiting for 30 seconds ...

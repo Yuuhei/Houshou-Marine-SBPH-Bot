@@ -1,0 +1,18 @@
+Processing query:                                                               
+https://open.spotify.com/album/31axoRZZ4yT8j4lSdddX2Q?si=Z3OpU5U-Rvq231AD08ihwA 
+Found 5 songs in Basically Saturday Night (Album)                               
+LookupError: No results found for song: Basically Saturday Night - Runaway Man  
+LookupError: No results found for song: Basically Saturday Night - El Poder     
+LookupError: No results found for song: Basically Saturday Night - What's That  
+Driving Song?                                                                   
+Downloaded "Basically Saturday Night - Balance":                                
+https://www.youtube.com/watch?v=Jl_eK6gBNIQ                                     
+Downloaded "Basically Saturday Night - Chemical Love":                          
+https://www.youtube.com/watch?v=zt3ofD5jexo                                     
+https://open.spotify.com/track/4WKezTFfzFNXGjMRs9RcwY - LookupError: No results 
+found for song: Basically Saturday Night - Runaway Man                          
+https://open.spotify.com/track/7iTYyO5Bf8iRtk672cYr5o - LookupError: No results 
+found for song: Basically Saturday Night - El Poder                             
+https://open.spotify.com/track/2ewgCjmabBy8gOi9Xf5Csu - LookupError: No results 
+found for song: Basically Saturday Night - What's That Driving Song?            
+

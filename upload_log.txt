@@ -1,0 +1,28 @@
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Elapsed time:         0.7sTransferred:   	          0 B / 10.292 MiB, 0%, 0 B/s, ETA -
+Transferred:            0 / 1, 0%
+Elapsed time:         1.2s
+Transferring:
+ * Basically Saturday Nig…_2024-08-27_232239.zip:  0% /10.292Mi, 0/s, -Transferred:   	          0 B / 10.292 MiB, 0%, 0 B/s, ETA -
+Transferred:            0 / 1, 0%
+Elapsed time:         1.7s
+Transferring:
+ * Basically Saturday Nig…_2024-08-27_232239.zip:  0% /10.292Mi, 0/s, -Transferred:   	   10.292 MiB / 10.292 MiB, 100%, 0 B/s, ETA -
+Transferred:            0 / 1, 0%
+Elapsed time:         2.2s
+Transferring:
+ * Basically Saturday Nig…_2024-08-27_232239.zip:100% /10.292Mi, 0/s, -Transferred:   	   10.292 MiB / 10.292 MiB, 100%, 0 B/s, ETA -
+Transferred:            0 / 1, 0%
+Elapsed time:         2.7s
+Transferring:
+ * Basically Saturday Nig…_2024-08-27_232239.zip:100% /10.292Mi, 0/s, -Transferred:   	   10.292 MiB / 10.292 MiB, 100%, 5.149 MiB/s, ETA 0s
+Transferred:            0 / 1, 0%
+Elapsed time:         3.2s
+Transferring:
+ * Basically Saturday Nig…_2024-08-27_232239.zip:100% /10.292Mi, 5.144Mi/s, 0sTransferred:   	   10.292 MiB / 10.292 MiB, 100%, 5.149 MiB/s, ETA 0s
+Transferred:            0 / 1, 0%
+Elapsed time:         3.7s
+Transferring:
+ * Basically Saturday Nig…_2024-08-27_232239.zip:100% /10.292Mi, 5.144Mi/s, 0sTransferred:   	   10.292 MiB / 10.292 MiB, 100%, 5.149 MiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:         3.7s

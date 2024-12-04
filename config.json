@@ -1,0 +1,13 @@
+{
+  "bot_prefix": "h!",
+  "token": "",
+  "application_id": "",
+  "bot_folder": "/home/xceon/network-share/houshou-py/",
+  "request_channel": "",
+  "upload_channel": "",
+  "log_channel": "",
+  "owners": [
+    380793772088229888,
+    380793772088229888
+  ]
+}

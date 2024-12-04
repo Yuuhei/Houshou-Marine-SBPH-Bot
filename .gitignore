@@ -1,0 +1,3 @@
+# ignore nonsense bs
+cogs/__pycache__/
+.vscode/

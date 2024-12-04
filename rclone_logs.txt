@@ -1,0 +1,25 @@
+=================================================================================
+LOGS FOR SBPH GOOGLE DRIVE, CHECK LINES BELOW ON WHAT THIS COMMAND DELETED!
+=================================================================================
+2024/06/03 14:04:43 DEBUG : rclone: Version "v1.61.1" starting with parameters ["rclone" "delete" "gd:" "--drive-use-trash=false" "-vv"]
+2024/06/03 14:04:43 DEBUG : Creating backend with remote "gd:"
+2024/06/03 14:04:43 DEBUG : Using config file from "/home/xceon/.config/rclone/rclone.conf"
+2024/06/03 14:04:43 DEBUG : gd: detected overridden config - adding "{jTRHh}" suffix to name
+2024/06/03 14:04:43 DEBUG : fs cache: renaming cache item "gd:" to be canonical "gd{jTRHh}:"
+2024/06/03 14:04:43 DEBUG : Waiting for deletions to finish
+2024/06/03 14:04:44 NOTICE: Time may be set wrong - time from "www.googleapis.com" is -388h50m4.933650843s different from this computer
+2024/06/03 14:04:44 ERROR : Attempt 1/3 failed with 1 errors and: couldn't list directory: googleapi: Error 401: Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.
+More details:
+Reason: authError, Message: Invalid Credentials
+2024/06/03 14:04:44 DEBUG : Waiting for deletions to finish
+2024/06/03 14:04:44 ERROR : Attempt 2/3 failed with 1 errors and: couldn't list directory: googleapi: Error 401: Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.
+More details:
+Reason: authError, Message: Invalid Credentials
+2024/06/03 14:04:44 DEBUG : Waiting for deletions to finish
+2024/06/03 14:04:44 ERROR : Attempt 3/3 failed with 1 errors and: couldn't list directory: googleapi: Error 401: Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.
+More details:
+Reason: authError, Message: Invalid Credentials
+2024/06/03 14:04:44 DEBUG : 4 go routines active
+2024/06/03 14:04:44 Failed to delete: couldn't list directory: googleapi: Error 401: Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.
+More details:
+Reason: authError, Message: Invalid Credentials

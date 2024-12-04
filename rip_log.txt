@@ -1,0 +1,3 @@
+Logging into qobuz
+
+If this was unexpected, please open a Bug Report at https://github.com/nathom/streamrip/issues/new/choose
