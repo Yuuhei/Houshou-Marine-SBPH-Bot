@@ -95,7 +95,7 @@ async def on_command_completion(ctx):
         Fore.YELLOW + f"Executed {executedCommand} command in {ctx.guild.name} (ID: {ctx.message.guild.id}) by {ctx.message.author} (ID: {ctx.message.author.id})")
     print(Style.RESET_ALL)
 
-    botwebhook = DiscordWebhook(url='https://discordapp.com/api/webhooks/1021787265451696220/NfNabJvLiM25HzmzCyS0oMaca-n6piTHtF7kCkchzJ7F3sxL3rXN8ZspsCcyuD5mgIB0', rate_limit_retry=True,)
+    botwebhook = DiscordWebhook(url='https://discordapp.com/api/webhooks/1021787265451696220/fuck_scammers_and_webcrawlers_rot_in_hell_and_suck_my_dick_lmao', rate_limit_retry=True,)
     timenow = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
     embed = DiscordEmbed(title=f'Bot Action Log', description=f"✅ Executed `{executedCommand}` command by <@{ctx.message.author.id}> at `{timenow} UTC -8`", color='bf40bf')
     embed.set_thumbnail(url='https://cdn.discordapp.com/avatars/804650950026330172/ed49e0e623675c87c90ccbae537b7ffa.png')
